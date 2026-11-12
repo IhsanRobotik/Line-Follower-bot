@@ -15,7 +15,7 @@ A two-wheel line follower built around an ATmega32A microcontroller, optical lin
 
 ![PCB layout](Media/Pcb%20layout.png)
 
-![Line follower schematic](Media/schematic.png)
+![Line follower schematic](Media/Screenshot%202026-11-12%20142647.png)
 
 ## KiCad source files
 
